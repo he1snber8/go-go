@@ -1,2 +1,1 @@
-# go-go
-Some description
+Readme content
